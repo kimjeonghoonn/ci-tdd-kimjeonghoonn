@@ -1,6 +1,6 @@
 import React from "react";
 import {render, fireEvent, getByText} from '@testing-library/react'
-import TodoApp_kimjeonghoonn from "./Todoapp_kimjeonghoonn";
+import TodoApp_kimjeonghoonn from "./TodoApp_kimjeonghoonn";
 
 describe('<TodoApp_kimjeonghoonn />', () => {
     it('renders TodoForm TodoList', () => {
